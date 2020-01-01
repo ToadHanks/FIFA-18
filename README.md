@@ -4,8 +4,10 @@ Mihir Patel
 
 Description
 -------------   
-This projet is based on an old FIFA cup stats. There were 32 competing nations in the tournament, divided into 8 groups, A through H, with each group having 4 countries. The stats used in this program contains the group stage games, with each country playing exactly 3 matches.   
-A CSV file *worldcup.csv*, contains 32 records retrieved from general google search, one for each country. Each record has 4 fields – the name of the country, the group the country belongs to, goals scored, and points earned.    
+This projet is based on an old FIFA cup stats. There were 32 competing nations in the tournament, divided into 8 groups, A through H, with each group having 4 countries. The stats used in this program contains the group stage games, with each country playing exactly 3 matches. 
+   
+A CSV file *worldcup.csv*, contains 32 records retrieved from general google search, one for each country. Each record has 4 fields – the name of the country, the group the country belongs to, goals scored, and points earned.
+    
 The program begins with reading in the CSV file into an array of structure and implementing functions that will search this array based on the country name, group, or points earned (input by user).   
 Following are some base files which I have made:
 
