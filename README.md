@@ -21,7 +21,11 @@ Following are some base files which I have made:
    - This file has the main function. You can see an array of structure country here. The main function reads in the records from the CSV file (name is passed from command line by the user) into this array"        
 
 Please use the premade make file to get an executable. Then do gcc -Wall ./worldcup worldcup.csv in a linux or minGW environment. 
-      
+    
+Status
+-------
+Completed   
+   
 Examples   
 --------   
 Below are some examples of how this code runs. 
